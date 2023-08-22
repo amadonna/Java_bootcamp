@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="16cb5489-924f-4375-a09b-6f1568fd34b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day00/ex00/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/ex00/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day00/ex01/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/day00/ex01/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="47a5be89-e612-4dc9-b3be-6f82e098d739" />
+        <option name="url" value="git@github.com:amadonna/Java_bootcamp.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,6 +54,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day00/ex01" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +70,7 @@
       <workItem from="1692550015266" duration="1122000" />
       <workItem from="1692558610089" duration="188000" />
       <workItem from="1692559530139" duration="2227000" />
-      <workItem from="1692567787418" duration="647000" />
+      <workItem from="1692567787418" duration="1415000" />
     </task>
     <servers />
   </component>
@@ -67,5 +87,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
